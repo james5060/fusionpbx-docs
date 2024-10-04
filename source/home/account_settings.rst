@@ -10,10 +10,10 @@ Account Settings
 
 
 
-* **User Name:** The user name.
-* **Password:** The password.
-* **Confirm Password:** Must match the password.
-* **Language:** Choose a language for the user.
+* **User Name:** 用户名称。
+* **Password:** 密码。
+* **Confirm Password:** 必须匹配密码。
+* **Language:** 此用户的支持语言
 * **Time Zone:** Time zone specific to the user.
 * **Status:** Used for call center and operator panel.
 * **Contact:** The users contact.  Is used in a phone directory or Apps > Contacts.
